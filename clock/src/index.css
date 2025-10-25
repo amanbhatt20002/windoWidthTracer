@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.heading{
+  margin-top: 25px;
+  text-align: center;
+  color: aliceblue;
+}
+.clock{
+  margin-top: 25px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 2rem;
+  font-weight: bold;
+}
